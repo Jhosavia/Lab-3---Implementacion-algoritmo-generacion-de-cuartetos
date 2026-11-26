@@ -1,0 +1,1 @@
+# Lab-3---Implementacion-algoritmo-generacion-de-cuartetos
